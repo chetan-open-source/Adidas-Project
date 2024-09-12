@@ -7,7 +7,7 @@ Adidas aims to evaluate its sales performance and profitability using key metric
 
 ### Steps to Create the Dashboard:
 
-Setp 1:Imported data from an Excel file with columns including Date, Region, Product Category, Units Sold, Sales Revenue, and Profit.
+Setp 1:Imported data from an Excel file with columns including Date, Region, Product Category, Units Sold, Sales Revenue, and Profit.    
 Step 2:Utilized Power Query to clean and prepare data, including removing duplicates, renaming columns for clarity.  
 Step 3:Used new card visual to display Total sales, Operating profit, units sold, price per unit, operating margin.
 Step 4:Used Area chart by inserting "Month" data in X-axis and "Total sales" in y-axis to visualize monthly distribution of monthly total sales to identify peak periods.
